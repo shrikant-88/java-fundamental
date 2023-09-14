@@ -1,0 +1,28 @@
+Java fundamentals are the basic concepts and constructs that you need to know in order to write Java programs. They include:
+* Data types
+* Operators
+* Control flow statements
+* Classes and objects
+* Methods
+* Inheritance
+* Polymorphism
+* Abstraction
+* Encapsulation
+* Interfaces
+* Packages
+* Exception handling
+Data types are used to represent data in Java. There are two types of data types in Java: primitive data types and reference data types. Primitive data types are the basic data types, such as int, float, and double. Reference data types are used to represent objects, such as String and List.
+Operators are used to perform operations on data. There are many different types of operators in Java, such as arithmetic operators, logical operators, and relational operators.
+Control flow statements are used to control the flow of execution of a program. There are many different types of control flow statements in Java, such as if-else statements, for loops, and while loops.
+Classes and objects are the basic building blocks of Java. A class is a blueprint for an object. An object is an instance of a class.
+Methods are the functions that are defined in a class. Methods are used to perform tasks.
+Inheritance is the mechanism by which a class can inherit the properties and methods of another class.
+Polymorphism is the ability of an object to take on different forms. Polymorphism is achieved through inheritance and method overloading.
+Abstraction is the process of hiding the implementation details of an object and only exposing the essential features to the user.
+Encapsulation is the process of grouping together the data and methods of an object and making them accessible only through the object's methods.
+Interfaces are a way to define a contract between different classes. An interface defines the methods that a class must implement.
+Packages are used to organize classes and interfaces. Packages are also used to control access to classes and interfaces.
+Exception handling is the mechanism by which errors are handled in Java.
+These are just some of the Java fundamentals. There are many other concepts that you need to know in order to become a proficient Java programmer
+
+
